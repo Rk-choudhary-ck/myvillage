@@ -25,7 +25,7 @@
 <!-- Page Loader -->
 <div id="loader">
   <div class="loader-inner">
-    <div class="loader-logo">ਚਾਨਣ ਖੇੜਾ</div>
+    <div class="loader-logo">ਚੰਨਣ ਖੇੜਾ</div>
     <div class="loader-text">Chanan Khera</div>
     <div class="loader-bar"><div class="loader-fill"></div></div>
   </div>
@@ -39,8 +39,9 @@
 <nav id="mainNav">
   <div class="nav-container">
     <a href="{{ route('home') }}" class="nav-brand">
-      <span class="brand-punjabi">ਚਾਨਣ ਖੇੜਾ</span>
-      <span class="brand-english">Chanan Khera</span>
+      {{-- <span class="brand-punjabi">ਚੰਨਣ ਖੇੜਾ</span>
+      <span class="brand-english">Chanan Khera</span> --}}
+      <span><img src="{{asset('/images/logo.png')}}" width="300" /></span>
     </a>
     <ul class="nav-menu" id="navMenu">
       <li><a href="{{ route('home') }}" class="{{ request()->routeIs('home') ? 'active' : '' }}">Home</a></li>
