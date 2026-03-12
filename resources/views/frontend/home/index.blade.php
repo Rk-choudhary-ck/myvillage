@@ -14,7 +14,7 @@
         <div class="hero-content">
           <div class="hero-tag" data-swiper-parallax="-200">✦ Punjab, India ✦</div>
           <h1 class="hero-title" data-swiper-parallax="-300">
-            <span class="hero-punjabi">ਚਾਨਣ ਖੇੜਾ</span>
+            <span class="hero-punjabi">ਚੰਨਣ ਖੇੜਾ</span>
             <span class="hero-eng">Where Fields<br><em>Sing at Dawn</em></span>
           </h1>
           <p class="hero-sub" data-swiper-parallax="-100">A village of golden fields, ancient temples, and stories that breathe through every leaf</p>

@@ -5,7 +5,7 @@
   <div class="container" style="text-align:center">
     <div class="section-tag light">Our Village</div>
     <h1 class="section-title light" style="margin-top:8px">About <em>Chanan Khera</em></h1>
-    <p style="font-family:'Lora',serif;font-style:italic;font-size:20px;color:rgba(255,255,255,0.7);max-width:600px;margin:20px auto 0">ਚਾਨਣ ਖੇੜਾ — The Village of Light, where every sunrise writes a new chapter</p>
+    <p style="font-family:'Lora',serif;font-style:italic;font-size:20px;color:rgba(255,255,255,0.7);max-width:600px;margin:20px auto 0">ਚੰਨਣ ਖੇੜਾ — The Village of Light, where every sunrise writes a new chapter</p>
   </div>
 </section>
 <section style="padding:80px 0;background:var(--cream)">

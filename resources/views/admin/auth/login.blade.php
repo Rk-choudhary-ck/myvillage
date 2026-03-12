@@ -270,7 +270,7 @@
   <span class="lv-floating">🕌</span>
   <span class="lv-floating">🌿</span>
   <div class="lv-content">
-    <div class="lv-logo-punjabi">ਚਾਨਣ ਖੇੜਾ</div>
+    <div class="lv-logo-punjabi">ਚੰਨਣ ਖੇੜਾ</div>
     <div class="lv-logo-eng">Chanan Khera</div>
     <p class="lv-tagline">Manage the <em>digital heartbeat</em> of our village</p>
     <div class="lv-features">

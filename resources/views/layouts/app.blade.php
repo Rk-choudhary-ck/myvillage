@@ -86,7 +86,7 @@
     <div class="footer-grid">
       <div class="footer-brand-col">
         <div class="footer-logo">
-          <span class="f-punjabi">ਚਾਨਣ ਖੇੜਾ</span>
+          <span class="f-punjabi">ਚੰਨਣ ਖੇੜਾ</span>
           <span class="f-english">Chanan Khera</span>
         </div>
         <p>A timeless village where nature whispers ancient stories and every sunrise paints a new chapter of life, community, and belonging.</p>

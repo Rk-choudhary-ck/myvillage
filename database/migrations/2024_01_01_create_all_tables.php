@@ -162,7 +162,7 @@ return new class extends Migration {
         // Seed default settings
         $settings = [
             ['key'=>'village_name','value'=>'Chanan Khera','type'=>'text','group'=>'general','label'=>'Village Name'],
-            ['key'=>'village_tagline','value'=>'Village of Light — ਚਾਨਣ ਖੇੜਾ','type'=>'text','group'=>'general','label'=>'Tagline'],
+            ['key'=>'village_tagline','value'=>'Village of Light —  ਖੇੜਾ','type'=>'text','group'=>'general','label'=>'Tagline'],
             ['key'=>'village_description','value'=>'A timeless village in Punjab where nature whispers ancient stories and community is everything.','type'=>'textarea','group'=>'general','label'=>'Description'],
             ['key'=>'contact_email','value'=>'info@chanankhera.in','type'=>'text','group'=>'contact','label'=>'Contact Email'],
             ['key'=>'contact_phone','value'=>'+91 XXXXX XXXXX','type'=>'text','group'=>'contact','label'=>'Contact Phone'],
